@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+assets
+public
+node_modules
+vite.config.js
+README.md
+package-lock.json
+package.json
+.eslintrc.cjs
+public
+node_modules
